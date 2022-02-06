@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0s;
+}
+header{
+    background-color: #F0FFF0;
+}
+.img-fluid-l {
+    max-width: 50%;
+    height: auto;
+  }
+  .header_bg{
+    padding: 20px 0;
+    
+  }
+.btn{
+    background-color: #21B573;
+    color: #F0FFF0;
+    border-radius: 30px;
+    padding: 5px 20px;  
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+.container-fluid{
+    background-color: #F0FFF0;
+    padding: 50px 0;
+  }
+  .fs-1{
+      font-size: 40px;
+      font-weight: bold;
+  }
+  .text-h{
+    color: #21B573;
+   
+  }
+.btn2{
+    margin-top: 30px;
+    padding: 10px 30px;
+}
