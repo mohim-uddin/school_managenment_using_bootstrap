@@ -39,3 +39,37 @@ header{
     margin-top: 30px;
     padding: 10px 30px;
 }
+.about{
+
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.single-col{
+  width: 250px;
+  height: 250px;
+  background-color: #F0FFF0;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.default-class{
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.img-fluid-about {
+  max-width: 35%;
+  height: auto;
+
+}
+.single-about-div{
+  margin-left: 100px;
+}
+.single-about-div h5{
+  margin-top: 20px;
+  margin-left: -30px;
+}
+.single-about-div small{
+  margin-left: -25px;
+  margin-top: 10px;
+  
+}
