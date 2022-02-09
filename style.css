@@ -104,7 +104,7 @@ header{
   float: right;
 }
 .courses{
-  margin-bottom: 50px;
+  margin-bottom: ;
 }
 .img-fluid-tes{
   max-width: 30%;
@@ -114,4 +114,26 @@ header{
   font-size: 14px;
   margin-top: 15px;
   margin-left: 15px;
+}
+.footer-bg{
+  background-color: #282531;
+  margin-top: 80px;
+}
+.footer-p-cls{
+ color: white;
+ font-size: 14px;
+}
+#f-c{
+  font-weight: bold;
+}
+.footer-m-cls ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  margin-left: -130px;
+}
+.footer-b{
+  background-color: #282531;
+  color: white;
+  text-align: center;
 }
