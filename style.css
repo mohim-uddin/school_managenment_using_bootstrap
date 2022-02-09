@@ -42,12 +42,12 @@ header{
 .about{
 
     margin-top: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 .single-col{
   width: 250px;
   height: 250px;
-  background-color: #F0FFF0;
+  background-color: #F8FFFB;
   margin-right: 20px;
   border-radius: 5px;
 }
@@ -72,4 +72,37 @@ header{
   margin-left: -25px;
   margin-top: 10px;
   
+}
+.courses-class{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.card-img-top {
+  width: 92%;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+.card {
+  background-color: #FFFFFF;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  border-radius: 10px;
+  border: 0px solid rgba(0,0,0,.125);
+}
+.card-footer {
+  padding: .5rem 1rem;
+  background-color: #FFFFFF;
+  border-top: none;
+}
+.btn3{
+  margin-top: 15px;
+}
+.p-class{
+  font-size: 14px;
+}
+.right-div{
+  float: right;
+}
+.courses{
+  margin-bottom: 50px;
 }
