@@ -106,3 +106,12 @@ header{
 .courses{
   margin-bottom: 50px;
 }
+.img-fluid-tes{
+  max-width: 30%;
+  height: auto;
+}
+.p-cls{
+  font-size: 14px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
